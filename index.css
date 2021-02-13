@@ -1,0 +1,309 @@
+div#container
+{
+   width: 600px;
+   position: relative;
+   margin: 0 auto 0 auto;
+   text-align: left;
+}
+body
+{
+   background-color: #FFFFFF;
+   background-image: url(images/33.png);
+   background-attachment: fixed;
+   background-position: center center;
+   background-repeat: no-repeat;
+   background-size: 100% 100%;
+   color: #000000;
+   font-family: Arial;
+   font-weight: normal;
+   font-size: 13px;
+   line-height: 1.1875;
+   margin: 0;
+   text-align: center;
+}
+#home
+{
+   background-color: transparent;
+   background-image: url(images/beach_bk.jpg);
+   background-repeat: no-repeat;
+   background-position: center center;
+   background-attachment: scroll;
+   background-size: cover;
+}
+#Image1
+{
+   border: 0px #000000 solid;
+   padding: 0px 0px 0px 0px;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#Image4
+{
+   border: 0px #000000 solid;
+   padding: 0px 0px 0px 0px;
+   -webkit-animation: animate-flash 500ms linear 0ms infinite normal both;
+   -moz-animation: animate-flash 500ms linear 0ms infinite normal both;
+   animation: animate-flash 500ms linear 0ms infinite normal both;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#Image2
+{
+   border: 0px #000000 solid;
+   padding: 0px 0px 0px 0px;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#Image8
+{
+   border: 0px #000000 solid;
+   padding: 0px 0px 0px 0px;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#Image6
+{
+   border: 0px #000000 solid;
+   padding: 0px 0px 0px 0px;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#Image3
+{
+   border: 0px #000000 solid;
+   padding: 0px 0px 0px 0px;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#Image5
+{
+   border: 0px #000000 solid;
+   padding: 0px 0px 0px 0px;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#Image7
+{
+   border: 0px #000000 solid;
+   padding: 0px 0px 0px 0px;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 100%;
+}
+#wb_Image1
+{
+   position: absolute;
+   left: 188px;
+   top: 460px;
+   width: 225px;
+   height: 39px;
+   z-index: 3;
+}
+#wb_Image2
+{
+   position: absolute;
+   left: 169px;
+   top: 420px;
+   width: 263px;
+   height: 40px;
+   z-index: 2;
+}
+#home_Container
+{
+   width: 575px;
+   position: relative;
+   margin-left: auto;
+   margin-right: auto;
+   text-align: left;
+}
+#wb_Image3
+{
+   position: absolute;
+   left: 78px;
+   top: 158px;
+   width: 216px;
+   height: 88px;
+   z-index: 5;
+}
+#wb_Image4
+{
+   position: absolute;
+   left: 288px;
+   top: 499px;
+   width: 25px;
+   height: 20px;
+   z-index: 1;
+}
+#wb_Image5
+{
+   position: absolute;
+   left: 340px;
+   top: 281px;
+   width: 216px;
+   height: 85px;
+   z-index: 8;
+}
+#wb_Image6
+{
+   position: absolute;
+   left: 340px;
+   top: 160px;
+   width: 216px;
+   height: 85px;
+   z-index: 7;
+}
+#wb_Image7
+{
+   position: absolute;
+   left: 78px;
+   top: 280px;
+   width: 216px;
+   height: 86px;
+   z-index: 6;
+}
+#wb_Image8
+{
+   position: absolute;
+   left: 110px;
+   top: 0px;
+   width: 407px;
+   height: 130px;
+   z-index: 4;
+}
+#home
+{
+   position: relative;
+   text-align: center;
+   width: 100%;
+   height: 100%;
+   float: left;
+   display: block;
+   z-index: 9;
+}
+@media only screen and (max-width: 599px)
+{
+div#container
+{
+   width: 320px;
+}
+body
+{
+   background-color: #FFFFFF;
+   background-image: url(images/0كاف للتدريب2299.png);
+   background-attachment: fixed;
+   background-position: center center;
+   background-repeat: no-repeat;
+   background-size: 100% 100%;
+}
+#home
+{
+   visibility: visible;
+   display: inline;
+   font-size: 8px;
+   font-family: Arial;
+   font-weight: normal;
+   font-style: normal;
+   text-decoration: none;
+   background-color: transparent;
+   background-image: url(images/beach_bk.jpg);
+   background-repeat: no-repeat;
+   background-position: center center !important;
+   background-attachment: scroll;
+   background-size: cover;
+}
+#home
+{
+   margin: 0px 0px 0px 0px;
+}
+#home_Container
+{
+   width: 320px;
+}
+#wb_Image1
+{
+   left: 40px;
+   top: 430px;
+   width: 225px;
+   height: 39px;
+   visibility: visible;
+   display: inline;
+}
+#wb_Image4
+{
+   left: 140px;
+   top: 470px;
+   width: 25px;
+   height: 20px;
+   visibility: visible;
+   display: inline;
+}
+#wb_Image2
+{
+   left: 20px;
+   top: 390px;
+   width: 263px;
+   height: 40px;
+   visibility: visible;
+   display: inline;
+}
+#wb_Image8
+{
+   left: 90px;
+   top: 0px;
+   width: 181px;
+   height: 136px;
+   visibility: visible;
+   display: inline;
+}
+#wb_Image6
+{
+   left: 190px;
+   top: 136px;
+   width: 140px;
+   height: 84px;
+   visibility: visible;
+   display: inline;
+}
+#wb_Image3
+{
+   left: 30px;
+   top: 136px;
+   width: 150px;
+   height: 84px;
+   visibility: visible;
+   display: inline;
+}
+#wb_Image5
+{
+   left: 190px;
+   top: 240px;
+   width: 140px;
+   height: 84px;
+   visibility: visible;
+   display: inline;
+}
+#wb_Image7
+{
+   left: 30px;
+   top: 240px;
+   width: 150px;
+   height: 84px;
+   visibility: visible;
+   display: inline;
+}
+}
